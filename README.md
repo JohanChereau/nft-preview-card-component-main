@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution on Front End Mentor: [Click here](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-semantic-html-and-css-grid-flexbox-bem-Z4qVTYASRw)
+- Solution on Front End Mentor: [Click here](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-semantic-html-and-css-grid-flexbox-bem-iEAONqjGwO)
 - Live Site URL: [Click here](https://johanchereau.github.io/nft-preview-card-component-main/)
 
 ## My process
